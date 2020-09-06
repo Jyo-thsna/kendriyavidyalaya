@@ -28,6 +28,11 @@ width:100%
  float:left;
 }
 
+#lnhead{
+background-color:red;
+color:snow;
+}
+
 #Aboutus{
 width:60%;
 height:10px;
