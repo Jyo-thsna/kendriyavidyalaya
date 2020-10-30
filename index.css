@@ -31,6 +31,7 @@ width:100%
 #lnhead{
 background-color:red;
 color:snow;
+  margin-bottom:10px;
 }
 
 #Aboutus{
@@ -41,17 +42,19 @@ float:right;
 #auhead{
 background-color:wheat;
 color:slateblue;
+   margin-bottom:10px;
 }
 
 #marquee{
 background-color:#CCFF99;
   color:black;
   padding:10px;
-  height:100px;
+  height:10px;
 }
 #about{
   background-color:#ff99ff;
   color:black;
   padding:10px;
+  height:10px
   text-align:justify;
 }
