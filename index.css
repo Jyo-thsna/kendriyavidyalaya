@@ -42,3 +42,10 @@ float:right;
 background-color:wheat;
 color:slateblue;
 }
+
+#marquee{
+background-color:#CCFF99;
+  color:black;
+  padding:10px;
+  height:100px;
+}
