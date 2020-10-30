@@ -12,7 +12,7 @@ text-align:right;
 #main{
   text-align:right;
 background-color:crimson;
-margin-top:10x;
+margin-top:10px;
 padding:10px;
   color:white;
   font-weight:bold;
@@ -31,7 +31,7 @@ width:100%
 #lnhead{
 background-color:red;
 color:snow;
-  margin-bottom:10px;
+  margin-bottom:0px;
 }
 
 #Aboutus{
@@ -42,7 +42,7 @@ float:right;
 #auhead{
 background-color:wheat;
 color:slateblue;
-   margin-bottom:10px;
+   margin-bottom:0px;
 }
 
 #marquee{
