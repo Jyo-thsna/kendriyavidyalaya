@@ -5,13 +5,12 @@ margin-left:120px;
 .box{
 display:block;
 float:left;
-width:25%;
-padding:10px;
+width:30%;
+padding:20px;
 }
 
 img{
-height:350px;
-  width:350px;
+width:100%
 }
 
 img:hover{
