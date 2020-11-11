@@ -58,11 +58,12 @@ background-color:#CCFF99;
   height:100px
   text-align:justify;
 }
+
 #para{
-color:#32130D;
   text-align:justify;
   font-style:italic;
   font-weight:bold;
+  color:#009933;
   padding:5px;
  width:60%;
 }
